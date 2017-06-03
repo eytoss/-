@@ -11,5 +11,6 @@ meishayisi.com/api/1/yisi/?
 持续开发中。
 
 api/2 目前支持分析聊天纪录（文字/图片）
+
 api/2 将会支持分析合照
 
