@@ -1,6 +1,7 @@
 # meishayisi
 meishayisi(没啥意思) 是一个由人工/人力智能支撑的网络服务。
-meishayisi.com
+
+meishayisi.com/api/1/yisi/?
 
 通过对上传聊天文字或图片的分析，
 告诉你她/他/它是否对你有意思。
