@@ -26,5 +26,5 @@ API response: "没啥意思" ![没啥意思](http://d.ifengimg.com/mw604/p2.ifen
 
 API response: "没啥意思" ![没啥意思](http://ww3.sinaimg.cn/large/9badcc1cjw1e3tw9totm9j20c80h5wfe.jpg)
 
-API response: ![test](https://cloud.githubusercontent.com/assets/435708/26749535/328d599e-47db-11e7-9f4b-db3339f5f3d3.png)
+API response: ![test](https://cloud.githubusercontent.com/assets/435708/26749557/add8d4c0-47db-11e7-918e-e450e4a75bce.png)
 
